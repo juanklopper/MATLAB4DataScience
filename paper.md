@@ -11,7 +11,7 @@ authors:
          affiliation: 1
 affiliations:
  - name: Milken Institute School of Public Health, The George Washington University
-		index: 1
+         index: 1
 date: August 21, 2024
 bibliography: paper.bib
 ---
