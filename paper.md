@@ -1,16 +1,16 @@
 ---
 title: 'Public Health Data Science with MATLAB'
 tags:
-	- data science
-	- public health
-	- MATLAB
-	- tutorial
+ - data science
+ - public health
+ - MATLAB
+ - tutorial
 authors:
-	- name: Juan H Klopper
-		orcid: 0000-0002-7325-1906
-		affiliation: 1
+ - name: Juan H Klopper
+         orcid: 0000-0002-7325-1906
+         affiliation: 1
 affiliations:
-	- name: Milken Institute School of Public Health, The George Washington University
+ - name: Milken Institute School of Public Health, The George Washington University
 		index: 1
 date: August 21, 2024
 bibliography: paper.bib
