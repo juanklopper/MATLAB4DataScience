@@ -7,12 +7,12 @@ tags:
  - tutorial
 authors:
  - name: Juan H Klopper
-         orcid: 0000-0002-7325-1906
-         affiliation: 1
+   orcid: 0000-0002-7325-1906
+   affiliation: 1
 affiliations:
  - name: Milken Institute School of Public Health, The George Washington University
-         index: 1
-date: August 21, 2024
+   index: 1
+date: 21 August 21 2024
 bibliography: paper.bib
 ---
 
